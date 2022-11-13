@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Semih
-- 🌱 I’m currently working on gamerpazar
+- 🌱 I’m currently working on gamerpazar.com
 - 📫 How to reach me semih@gamerpazar.com
 
 <!---
