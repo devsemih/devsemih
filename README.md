@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Semih
-- 🌱 I’m currently working on gamerpazar.com
-- 📫 How to reach me semih@gamerpazar.com
+- 🌱 I’m currently working on indie stuffs.
+- 📫 How to reach me hello@oregen.io
 
 <!---
 devsemih/devsemih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
