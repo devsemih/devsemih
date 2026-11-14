@@ -10,7 +10,7 @@
   <a href="https://github.com/devsemih/appship-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-appship-mcp-dark.svg"><img src="assets/repo-appship-mcp-light.svg" alt="Appship MCP server" width="49%"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" alt="Stack: Swift, SwiftUI, Kotlin, React Native, Expo, Flutter, TypeScript, React, Next.js, Node.js, Firebase, PostgreSQL, Figma" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-v2-dark.svg"><img src="assets/stack-v2-light.svg" alt="Stack: Swift, SwiftUI, MapKit, StoreKit 2, WidgetKit, LiveKit, SpriteKit, RealityKit, React Native, Expo, Flutter, TypeScript, React, Next.js, Node.js, Firebase, PostgreSQL, Figma" width="100%"></picture>
 
 <p align="center">
   <a href="mailto:semihaslan305@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-contact-dark.svg"><img src="assets/btn-contact-light.svg" alt="Contact" height="52"></picture></a>
