@@ -13,7 +13,5 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" alt="Stack: Swift, SwiftUI, Kotlin, React Native, Expo, Flutter, TypeScript, React, Next.js, Node.js, Firebase, PostgreSQL, Figma" width="100%"></picture>
 
 <p align="center">
-  <a href="https://linkedin.com/in/semihh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn" height="52"></picture></a>
-  <a href="mailto:semihaslan305@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Email" height="52"></picture></a>
-  <a href="https://odin.studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-web-dark.svg"><img src="assets/btn-web-light.svg" alt="odin.studio" height="52"></picture></a>
+  <a href="mailto:semihaslan305@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Contact" height="52"></picture></a>
 </p>
