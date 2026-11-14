@@ -1,9 +1,5 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Semih Aslan, Senior Mobile Engineer. I design and build iOS and Android apps end to end." width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" alt="9+ years building mobile apps, 5M+ people use my products, 300K gamers on the marketplace I co-founded, 106 stars on my top open-source repo" width="100%"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg"><img src="assets/experience-light.svg" alt="Experience: Odin Studio (2024–now), gamerpazar co-founder (2021–2024), Bro. (2023), Özel Kent Koleji (2017–2020)" width="100%"></picture>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-open-source-dark.svg"><img src="assets/section-open-source-light.svg" alt="Open source" width="100%"></picture>
 <p>
   <a href="https://github.com/devsemih/appstore-review-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-appstore-review-skill-dark.svg"><img src="assets/repo-appstore-review-skill-light.svg" alt="App Store review checker for Claude Code" width="49%"></picture></a>
@@ -12,16 +8,6 @@
 <p>
   <a href="https://github.com/devsemih/appjail"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-appjail-dark.svg"><img src="assets/repo-appjail-light.svg" alt="AppJail, a macOS focus tool" width="49%"></picture></a>
   <a href="https://github.com/devsemih/appship-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-appship-mcp-dark.svg"><img src="assets/repo-appship-mcp-light.svg" alt="Appship MCP server" width="49%"></picture></a>
-</p>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-selected-work-dark.svg"><img src="assets/section-selected-work-light.svg" alt="Selected work" width="100%"></picture>
-<p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-voltla-dark.svg"><img src="assets/work-voltla-light.svg" alt="Voltla EV charging app" width="49%"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-gamerpazar-dark.svg"><img src="assets/work-gamerpazar-light.svg" alt="gamerpazar gaming marketplace" width="49%"></picture>
-</p>
-<p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-kiymet-dark.svg"><img src="assets/work-kiymet-light.svg" alt="Kıymet gold price tracker" width="49%"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-tasiniyo-dark.svg"><img src="assets/work-tasiniyo-light.svg" alt="Taşınıyo on-demand moving app" width="49%"></picture>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" alt="Stack: Swift, SwiftUI, Kotlin, React Native, Expo, Flutter, TypeScript, React, Next.js, Node.js, Firebase, PostgreSQL, Figma" width="100%"></picture>
