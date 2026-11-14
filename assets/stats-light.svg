@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="196" viewBox="0 0 1200 196" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif}.m{font-family:'SF Mono', ui-monospace, Menlo, Consolas, monospace}</style>
+<g transform="translate(0,0)"><rect x=".5" y=".5" width="287" height="195" rx="24" fill="#F6F7F9" stroke="rgba(15,20,30,.08)"/>
+<circle cx="254" cy="34" r="6" fill="#FF6B1A" opacity="1"/>
+<text x="28" y="92" font-size="58" font-weight="700" letter-spacing="-2" fill="#11141A">9<tspan font-size="26" font-weight="600" letter-spacing="0" fill="#FF6B1A" dx="4">+ yrs</tspan></text>
+<text font-size="16.5" fill="#646B78"><tspan x="29" y="138">building and shipping</tspan><tspan x="29" y="162">mobile apps</tspan></text></g>
+<g transform="translate(304,0)"><rect x=".5" y=".5" width="287" height="195" rx="24" fill="#F6F7F9" stroke="rgba(15,20,30,.08)"/>
+<circle cx="254" cy="34" r="6" fill="#FF6B1A" opacity="0.35"/>
+<text x="28" y="92" font-size="58" font-weight="700" letter-spacing="-2" fill="#11141A">5M<tspan font-size="26" font-weight="600" letter-spacing="0" fill="#FF6B1A" dx="4">+</tspan></text>
+<text font-size="16.5" fill="#646B78"><tspan x="29" y="138">people use products</tspan><tspan x="29" y="162">I've built</tspan></text></g>
+<g transform="translate(608,0)"><rect x=".5" y=".5" width="287" height="195" rx="24" fill="#F6F7F9" stroke="rgba(15,20,30,.08)"/>
+<circle cx="254" cy="34" r="6" fill="#FF6B1A" opacity="0.35"/>
+<text x="28" y="92" font-size="58" font-weight="700" letter-spacing="-2" fill="#11141A">300K<tspan font-size="26" font-weight="600" letter-spacing="0" fill="#FF6B1A" dx="4"></tspan></text>
+<text font-size="16.5" fill="#646B78"><tspan x="29" y="138">gamers on the marketplace</tspan><tspan x="29" y="162">I co-founded</tspan></text></g>
+<g transform="translate(912,0)"><rect x=".5" y=".5" width="287" height="195" rx="24" fill="#F6F7F9" stroke="rgba(15,20,30,.08)"/>
+<circle cx="254" cy="34" r="6" fill="#FF6B1A" opacity="0.35"/>
+<text x="28" y="92" font-size="58" font-weight="700" letter-spacing="-2" fill="#11141A">106<tspan font-size="26" font-weight="600" letter-spacing="0" fill="#FF6B1A" dx="4">★</tspan></text>
+<text font-size="16.5" fill="#646B78"><tspan x="29" y="138">stars on my top</tspan><tspan x="29" y="162">open-source repo</tspan></text></g>
+</svg>
