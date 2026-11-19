@@ -1,17 +1,25 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Semih Aslan, Senior Mobile Engineer. I design and build iOS and Android apps end to end." width="100%"></picture>
+# Semih Aslan
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-open-source-dark.svg"><img src="assets/section-open-source-light.svg" alt="Open source" width="100%"></picture>
-<p>
-  <a href="https://github.com/devsemih/appstore-review-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-appstore-review-skill-dark.svg"><img src="assets/repo-appstore-review-skill-light.svg" alt="App Store review checker for Claude Code" width="49%"></picture></a>
-  <a href="https://github.com/devsemih/nook"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-nook-dark.svg"><img src="assets/repo-nook-light.svg" alt="Nook, a native Mac mail client" width="49%"></picture></a>
-</p>
-<p>
-  <a href="https://github.com/devsemih/appjail"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-appjail-dark.svg"><img src="assets/repo-appjail-light.svg" alt="AppJail, a macOS focus tool" width="49%"></picture></a>
-  <a href="https://github.com/devsemih/appship-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-appship-mcp-dark.svg"><img src="assets/repo-appship-mcp-light.svg" alt="Appship MCP server" width="49%"></picture></a>
-</p>
+**Full Stack Product Engineer** · İzmir, Türkiye
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-v2-dark.svg"><img src="assets/stack-v2-light.svg" alt="Stack: Swift, SwiftUI, MapKit, StoreKit 2, WidgetKit, LiveKit, SpriteKit, RealityKit, React Native, Expo, Flutter, TypeScript, React, Next.js, Node.js, Firebase, PostgreSQL, Figma" width="100%"></picture>
+I design and build products end to end: iOS and Android apps, web frontends and the backends behind them. 9+ years of experience, with products used by more than 5 million people.
 
-<p align="center">
-  <a href="mailto:semihaslan305@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-contact-dark.svg"><img src="assets/btn-contact-light.svg" alt="Contact" height="52"></picture></a>
-</p>
+Currently open to full-time roles.
+
+### Open source
+
+- **[appstore-review-skill](https://github.com/devsemih/appstore-review-skill)**: Claude Code plugin that checks iOS and Android builds against App Store and Google Play rules before you submit.
+- **[nook](https://github.com/devsemih/nook)**: A calm, people-first mail client for Mac. Native, free and private.
+- **[appjail](https://github.com/devsemih/appjail)**: Blocks distracting apps and browser tabs from your Mac menu bar.
+- **[appship-mcp](https://github.com/devsemih/appship-mcp)**: MCP server that brings App Store optimization into Claude Code.
+
+### Stack
+
+- **Mobile:** Swift, SwiftUI, React Native, Expo, Flutter, Dart
+- **iOS:** MapKit, StoreKit 2, WidgetKit, LiveKit, SpriteKit, RealityKit, Game Center, push notifications
+- **Web & Backend:** TypeScript, React, Next.js, Node.js, Firebase, PostgreSQL
+- **Product:** Figma, design systems, in-app purchases, App Store Connect, Google Play Console
+
+### Contact
+
+semihaslan305@gmail.com
